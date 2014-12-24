@@ -1,6 +1,4 @@
-import math
-
-
+_author_ = 'Ioannis';
 '''
 print();
 
@@ -30,4 +28,3 @@ while True:
         break;
         
 f.close();'''
-    
