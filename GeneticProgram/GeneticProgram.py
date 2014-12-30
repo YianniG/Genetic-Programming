@@ -7,8 +7,7 @@ Created on 5 Oct 2014
 from random import Random
 from math import ceil
 import math
-from GenerateFunctionDomain import GenerateFunctionDomain; #No error here.
-
+from GeneticProgram import GenerateFunctionDomain; #No error here.
 
 mistakes = [];
 
